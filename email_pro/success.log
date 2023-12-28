@@ -1,0 +1,31 @@
+INFO 2023-12-27 11:26:54,585 views  success_logger Student with id 1 created successfully
+INFO 2023-12-27 11:27:26,907 views  success_logger Student with id 2 created successfully
+INFO 2023-12-27 11:27:33,490 views  success_logger Students fetched successfully
+INFO 2023-12-27 11:27:46,319 views  success_logger Student updated: Student object (2)
+INFO 2023-12-27 11:27:55,056 views  success_logger Student updated: Student object (2)
+INFO 2023-12-27 11:28:11,415 views  success_logger Student with id 3 created successfully
+INFO 2023-12-27 11:28:20,765 views  success_logger student delete successfully: 3
+INFO 2023-12-27 12:04:48,495 views  success_logger Students fetched successfully
+INFO 2023-12-27 12:05:26,398 views  success_logger Student with id 4 created successfully
+INFO 2023-12-27 12:05:35,795 views  success_logger Students fetched successfully
+INFO 2023-12-27 12:05:36,709 views  success_logger Students fetched successfully
+INFO 2023-12-27 12:05:58,386 views  success_logger Student updated: Student object (3)
+INFO 2023-12-27 12:06:15,383 views  success_logger Student updated: Student object (3)
+INFO 2023-12-27 12:06:22,220 views  success_logger student delete successfully: 3
+INFO 2023-12-27 23:04:32,975 views  success_logger The user with username: nikita created successfully
+INFO 2023-12-27 23:56:26,632 views  success_logger user created with username nik
+INFO 2023-12-27 23:57:30,870 views  success_logger user created with username niki
+INFO 2023-12-28 00:02:03,813 views  success_logger Student with id 5 created successfully
+INFO 2023-12-28 00:02:12,106 views  success_logger Students fetched successfully
+INFO 2023-12-28 00:03:10,080 views  success_logger user created with username niki23
+INFO 2023-12-28 00:25:35,924 views  success_logger users fetched successfully
+INFO 2023-12-28 00:29:20,922 views  success_logger User with 3 is deleted 
+INFO 2023-12-28 00:29:51,451 views  success_logger users fetched successfully
+INFO 2023-12-28 00:32:33,914 views  success_logger user niki is deactivated successfully
+INFO 2023-12-28 00:36:53,698 views  success_logger Students fetched successfully
+INFO 2023-12-28 22:12:23,580 views  success_logger user created with username nikita2
+INFO 2023-12-28 22:14:19,026 views  success_logger Students fetched successfully
+INFO 2023-12-28 22:14:30,569 views  success_logger Student with id 6 created successfully
+INFO 2023-12-28 22:14:43,982 views  success_logger student delete successfully: 6
+INFO 2023-12-28 22:14:56,021 views  success_logger user created with username nikita23
+INFO 2023-12-28 22:17:25,402 views  success_logger user nikita2 is deactivated successfully
